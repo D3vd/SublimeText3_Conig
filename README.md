@@ -1,6 +1,6 @@
 # SublimeText3_Conig
 
-## Neccessary Packages:
+## Necessary Packages:
 
 - Predawn 
 
